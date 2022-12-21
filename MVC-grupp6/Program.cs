@@ -11,7 +11,7 @@
             Console.WriteLine("Hello, World2");
 
             //Christian
-            Console.WriteLine("Kalle Kula!");
+            Console.WriteLine("Kalle Blomqvist!");
         }
     }
 }
