@@ -9,5 +9,11 @@ namespace MVC_grupp6
     internal class ChChristian
     {
         public ChChristian() { }
-    }
+
+
+
+
+
+//tjoho
+}
 }
