@@ -8,6 +8,11 @@ namespace MVC_grupp6
 {
     internal class ChChristian
     {
-        public ChChristian() { }
+        public ChChristian() 
+        { 
+   
+        }
     }
+
+    Console.WriteLine("Hello!")
 }
